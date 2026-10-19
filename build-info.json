@@ -1,0 +1,35 @@
+{
+  "game": "MagnaRunner",
+  "channel": "dev",
+  "sourceCommit": "010bbbb4bbf8781a30f1acd16a14c98607401925",
+  "sourceArtifactSHA256": {
+    "Build/Web.data.br": "1a02be7bf9929abd0f42aa24daa3ad251cdcfc880284ae2d55b46d2113509b45",
+    "Build/Web.framework.js.br": "5eb4007aca3e9514be3ae3aa0ecb004afd7d7fc33ba10a1b1041b23ce23b9d4d",
+    "Build/Web.loader.js": "6ba926e2dadae32ec216ee9bd90ad45dc4ee6e8a12114c59ae995ad69f97a42f",
+    "Build/Web.wasm.br": "95e3b48c5d852d0c2089e97862f6d5c42649fd5a7d8b79f0563e498cbeeaff8a",
+    "index.html": "b72ef57b52bc808c936f94c308d950657993daf98de81bb32a54601bf5e32ce2"
+  },
+  "files": {
+    "Build/game.6ba926e2dadae32e.loader.js": {
+      "sha256": "6ba926e2dadae32ec216ee9bd90ad45dc4ee6e8a12114c59ae995ad69f97a42f",
+      "bytes": 27675
+    },
+    "Build/game.46462a260a212e11.framework.js": {
+      "sha256": "46462a260a212e11f4ba5f9845d57bca0e76b4365f63f7ad6a53a05007e6ef5b",
+      "bytes": 413934
+    },
+    "Build/game.1c23bda41e914f5f.data": {
+      "sha256": "1c23bda41e914f5f37e92cc64a40ceebbd5a796920f2a58eff9ed6f1297382c1",
+      "bytes": 12004312
+    },
+    "Build/game.79e31bbb2d093154.wasm": {
+      "sha256": "79e31bbb2d093154cecea3cb62344126eacd839d9b08cda43fe9f3e4119af483",
+      "bytes": 40087591
+    },
+    "index.html": {
+      "sha256": "3bf4d08d98208fbefd9c97b85bb6d4f72820f4c60158e08409e7ef5aba7be476",
+      "bytes": 3563
+    }
+  },
+  "packaging": "Audited Brotli inputs decompressed byte-for-byte; content-hashed filenames and relative URLs for GitHub Pages. No game rebuild or gameplay change."
+}
