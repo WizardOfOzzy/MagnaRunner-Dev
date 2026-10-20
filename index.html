@@ -37,9 +37,9 @@
       }
       const config = {
         arguments: [],
-        dataUrl: "Build/game.1c23bda41e914f5f.data",
-        frameworkUrl: "Build/game.46462a260a212e11.framework.js",
-        codeUrl: "Build/game.79e31bbb2d093154.wasm",
+        dataUrl: "Build/game.f70a2fbe5e5ca300.data",
+        frameworkUrl: "Build/game.18e345ca482fde62.framework.js",
+        codeUrl: "Build/game.dd6009f80d61a5f7.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "MagnaRunner",
@@ -51,7 +51,7 @@
         }
       };
       const loader = document.createElement("script");
-      loader.src = "Build/game.6ba926e2dadae32e.loader.js";
+      loader.src = "Build/game.080ccc4076ce4bb9.loader.js";
       loader.onerror = () => showLoadError("The Unity loader could not be downloaded.");
       loader.onload = () => {
         createUnityInstance(canvas, config, value => { progress.value = value; })
