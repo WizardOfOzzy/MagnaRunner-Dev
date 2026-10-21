@@ -2,38 +2,38 @@
   "game": "MagnaRunner",
   "channel": "dev",
   "buildChannel": {
-    "channel": "dev",
-    "scriptingDefine": "MAGNARUNNER_DEV",
+    "channel": "local",
+    "scriptingDefine": "MAGNARUNNER_LOCAL",
     "contentReview": true
   },
-  "sourceCommit": "490c439a3561d62f96dd1172b82ee8ac9a6d9110",
+  "sourceCommit": "d15cef8cc95366ed4413c9a7d87dc35e335ffe45",
   "sourceArtifactSHA256": {
-    "index.html": "c08d892554996f16a1f4bc5b341fbb4271e829e28ed0ceb62550e001e3cc61fb",
-    "build-channel.json": "51e5df632bddf11e9ebaea4d83f91042ba680442d063ce0698ded6c132552a48",
-    "Build/Web-family-touch-20261020-dev.framework.js.br": "4a9f86236e9877dadbe4156f040efac1febe42ddea5ac5cd457593b4e102b43d",
-    "Build/Web-family-touch-20261020-dev.data.br": "5eabd9c696c08e8d6a873a6f19d70c20719162d2a86c804f80175dccbe406e35",
-    "Build/Web-family-touch-20261020-dev.loader.js": "080ccc4076ce4bb9609f38ad0b44e0eddc51799bd567fb45ccb07cb530cf3585",
-    "Build/Web-family-touch-20261020-dev.wasm.br": "1de3a99c2976c1bb44c623888d07688cc82065539af3cf231a7c9e93a8b91654"
+    "index.html": "a0df926cce0913b7e6d38ce829c0ae61427990cebfc1a41e5d9a5d7e7bce303b",
+    "build-channel.json": "31b2ee690b51fb5799394abe9ef23da1b5705044158ef3b8ab0faa04fa069d21",
+    "Build/Web-tunnel-scale-final-20261020-local.loader.js": "74c5e6a2f2d7e0dd4425dfc555cbe0edb4f5d03abb713fad4bad5107e93b7609",
+    "Build/Web-tunnel-scale-final-20261020-local.framework.js.br": "464844c37cafa5a994143a199c33daba7c110bbe9f2a3189a7cfbd8fca68c918",
+    "Build/Web-tunnel-scale-final-20261020-local.data.br": "85cc019cb240ca64f6178126150b8cb799cf6d20941f5a454ce3fc96b06000bc",
+    "Build/Web-tunnel-scale-final-20261020-local.wasm.br": "fd682f09dcd6c96ec9c99b41c5137b33f43418ec2334303796b8aa0f6e07de3c"
   },
   "files": {
-    "Build/game.080ccc4076ce4bb9.loader.js": {
-      "sha256": "080ccc4076ce4bb9609f38ad0b44e0eddc51799bd567fb45ccb07cb530cf3585",
+    "Build/game.74c5e6a2f2d7e0dd.loader.js": {
+      "sha256": "74c5e6a2f2d7e0dd4425dfc555cbe0edb4f5d03abb713fad4bad5107e93b7609",
       "bytes": 27675
     },
-    "Build/game.18e345ca482fde62.framework.js": {
-      "sha256": "18e345ca482fde62d0f103dc4ae226bbdb530e0fa725ce5f5c1dbf5901dd476c",
+    "Build/game.a160fb84557710e5.framework.js": {
+      "sha256": "a160fb84557710e5482b0d6b782b986beb8017b0790bf2c57dbd34f67e8dd80f",
       "bytes": 413934
     },
-    "Build/game.f70a2fbe5e5ca300.data": {
-      "sha256": "f70a2fbe5e5ca3005712884eca031f9ff5368455c4350e625ac707a3172af577",
-      "bytes": 12006330
+    "Build/game.daa78021c89b05d4.data": {
+      "sha256": "daa78021c89b05d4aa56b7b29dca6e5dd59d0f8430b6cf311d85fa2e4f58322a",
+      "bytes": 12010916
     },
-    "Build/game.dd6009f80d61a5f7.wasm": {
-      "sha256": "dd6009f80d61a5f7e125f8ff45226927008f6599609d4b4818d3412d91095104",
-      "bytes": 40086428
+    "Build/game.19766f6aa2bb06e2.wasm": {
+      "sha256": "19766f6aa2bb06e2145cfd4e4aee345e7e1b5c58a4f86aaca1e89cc8fac2855e",
+      "bytes": 40095820
     },
     "index.html": {
-      "sha256": "04f595a2ce1131a24cfddc4c66a2207eaecb51c841808d229f16e98391c6eb92",
+      "sha256": "f614751069c2de15fc3c571a3d3c38a2c4be6136db8575683e8d042ce1dac680",
       "bytes": 3563
     }
   },
